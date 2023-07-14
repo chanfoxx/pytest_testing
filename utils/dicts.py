@@ -1,4 +1,4 @@
-def get_val(collection, key, default='git'):
+def get_val(collection, key, default='unknown value'):
     """
     Функция возвращает значение из словаря по
     переданному ключу, если ключ существует.
